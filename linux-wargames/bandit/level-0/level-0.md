@@ -2,11 +2,13 @@
 ```bash
 ssh bandit.labs.overthewire.org -p 2220 -l bandit0
 ```
-Password: bandit0
+<p>
+<details>
+<summary>Password (Spoiler Alert).</summary>
+<pre><code>bandit0</code></pre>
+</details>
+</p>
 
 ### Level-0 Explanation
-This level is very simple. We are given the password for the next level in the description. We can use the password to login to the next level.
-![cmd ss as proof](image.png)
-#### Resources
-- [WikiHow SSH](https://www.wikihow.com/Use-SSH)
-- [Change username in ssh](https://superuser.com/questions/306152/change-default-username-when-ssh-to-another-pc)
+- `ssh bandit.labs.overthewire.org -p 2220 -l bandit0` : Login to the server with the given credentials.
+![cmd ss as proof](level-0.png)
