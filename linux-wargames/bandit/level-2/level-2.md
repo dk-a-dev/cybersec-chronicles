@@ -12,7 +12,7 @@
 </details>
 </p>
 
-### Level- Explanation
+### Level-2 Explanation
 - `ls -a` : List all files including hidden files.
 - `cat .\-` : Read the contents of the file.
 - `exit` : Exit the current session.
