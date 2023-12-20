@@ -20,5 +20,5 @@
 - `ls -a` : List all files including hidden files.
 - `cat .hidden` : Read the contents of the file.
 - `exit` : Exit the current session.
-- `ssh bandit.labs.overthewire.org -p 2220 -l bandit3` : Login to the server with the given credentials.
+- `ssh bandit.labs.overthewire.org -p 2220 -l bandit4` : Login to the server with the given credentials.
 ![ssh of level-4 access](level-4.png)
