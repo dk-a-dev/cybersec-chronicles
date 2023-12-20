@@ -12,7 +12,7 @@
 </details>
 </p>
 
-### Level-5 Explanation
+### Level-8 Explanation
 - `find . grep data.txt` : Find the file with the name data.txt in the current directory.
 - `grep millionth data.txt` : Search for the word millionth in the file data.txt.
 - `exit` : Exit the current session.
