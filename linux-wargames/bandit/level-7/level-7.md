@@ -3,7 +3,7 @@
 > find . -size 33c -user bandit7 -group bandit6 | grep bandit7
 > cat ./var/lib/dpkg/info/bandit7.password
 > exit
-> ssh bandit.labs.overthewire.org -p 2220 -l bandit1
+> ssh bandit.labs.overthewire.org -p 2220 -l bandit7
 ```
 <p>
 <details>

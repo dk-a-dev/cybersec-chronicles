@@ -4,7 +4,7 @@
 > ls -a
 > cat ./-file07 // look into all files and get human-readable password
 > exit
-> ssh bandit.labs.overthewire.org -p 2220 -l bandit1
+> ssh bandit.labs.overthewire.org -p 2220 -l bandit5
 ```
 <p>
 <details>

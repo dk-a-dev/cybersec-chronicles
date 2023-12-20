@@ -5,7 +5,7 @@
 > find . -size 1033c ! -executable
 > cat ./maybehere07/.file2
 > exit
-> ssh bandit.labs.overthewire.org -p 2220 -l bandit1
+> ssh bandit.labs.overthewire.org -p 2220 -l bandit6
 ```
 <p>
 <details>
