@@ -17,4 +17,4 @@
 - `cat spaces/ in/ the/ filename` : Read the contents of the file.
 - `exit` : Exit the current session.
 - `ssh bandit.labs.overthewire.org -p 2220 -l bandit3` : Login to the server with the given credentials.
-![ssh of level-3 access](image.png)
+![ssh of level-3 access](level-3.png)
