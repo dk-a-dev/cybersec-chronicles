@@ -21,7 +21,7 @@
 - `ssh bandit.labs.overthewire.org -p 2220 -l bandit1` : Login to the server with the given credentials.
 ![cmd ss as proof](level-5.png)
 
-### Optimised Soltuion from Internet
+### Optimized Solution from Internet
 ```bash
 > cd inhere/
 > find -- * // find all files and type their contents
