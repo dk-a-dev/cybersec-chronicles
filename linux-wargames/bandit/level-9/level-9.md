@@ -1,8 +1,8 @@
-### ### Level-9 Solution
+### Level-9 Solution
 ```bash
 > sort data.txt | uniq -c | grep -w 1
 > exit
-> ssh bandit.labs.overthewire.org -p 2220 -l bandit8
+> ssh bandit.labs.overthewire.org -p 2220 -l bandit9
 ```
 <p>
 <details>
