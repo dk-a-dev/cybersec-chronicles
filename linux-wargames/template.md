@@ -1,3 +1,4 @@
+<!-- This is a template for writing solutions to the levels in the linux-wargames repository. This template is to be used for all levels in the repository. The template is to be used as follows: -->
 ### Level-[level-number] Solution
 ```bash
 # bash command(s) to solve level
