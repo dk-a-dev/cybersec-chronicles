@@ -7,7 +7,7 @@
 <p>
 <details>
 <summary>Password (Spoiler Alert).</summary>
-<pre><code></code>[PasswordObtained: avoid private ssh keys]</pre>
+<pre><code></code>PasswordObtained</pre>
 </details>
 </p>
 
