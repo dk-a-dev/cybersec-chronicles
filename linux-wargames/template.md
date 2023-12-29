@@ -9,7 +9,6 @@
 <summary>Password (Spoiler Alert).</summary>
 <pre><code></code>PasswordObtained</pre>
 </details>
-</p>
 
 ### Level-[level-number] Explanation
 <!-- explanation -->
