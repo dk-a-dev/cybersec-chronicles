@@ -1,4 +1,3 @@
-<!-- This is a template for writing solutions to the levels in the linux-wargames repository. This template is to be used for all levels in the repository. The template is to be used as follows: -->
 ### Level: 0 to 1 Solution
 1. Login using given password and username
 2. It says that "You can find the password for the next level on this page, but rightclicking has been blocked!"
